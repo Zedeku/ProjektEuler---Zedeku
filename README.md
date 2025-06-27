@@ -14,3 +14,4 @@ The problems can be found on this website:
 | [x] | 004<br>Largest palindrome product | solution1<br>28.06.2025 |                         |
 | [x] | 005<br>Smallest multiple          | solution2<br>28.06.2025 | solution2<br>28.06.2025 |
 | [x] | 006<br>Sum square difference      | solution1<br>28.06.2025 | solution1<br>28.06.2025 |
+| [x] | 007<br>10001st prime              | solution1<br>28.06.2025 | solution1<br>28.06.2025 |
