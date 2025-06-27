@@ -12,4 +12,4 @@ terms will be:
 
 By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
 
-- [x] brute force
+- [x] solution1: brute force
